@@ -1,0 +1,25 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Install dependencies",
+			"command": "npm install",
+			"group": "build"
+		},
+		{
+			"label": "Start API Server",
+			"type": "shell",
+			"command": "npm start",
+			"group": "build",
+			"problemMatcher": []
+		},
+		{
+			"label": "Dev API Server",
+			"type": "shell",
+			"command": "npm run dev",
+			"group": "build",
+			"problemMatcher": []
+		}
+	]
+}
