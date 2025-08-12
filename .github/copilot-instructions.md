@@ -53,3 +53,4 @@ When working with `.sql` files and correcting SQL code:
   - Declare foreign keys only **after** the `CREATE TABLE` statement.
   - Place foreign key constraints in a separate section following table creation.
 - To handle errors, use SQLSTATE codes according to ANSI SQL standard
+

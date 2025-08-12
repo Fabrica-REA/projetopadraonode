@@ -7,15 +7,15 @@ Este projeto foi criado para demonstrar como a criação de API's pode seguir um
 Sugestões:
 1) verifique o arquivo de instruções
 
-2) 
-Prompt: Based on the Sessao table definition (#file:initial.sql) and according to the example in #file:Curso.js, create the APIs.
+2) Prompt: Based on the Sessao table definition (#file:initial.sql) and according to the example in #file:Curso.js, create the APIs.
 
-3) 
-Veja o comportamento de diferentes modelos
+3) Veja o comportamento de diferentes modelos
 
 4) criar um arquivo: tabelas.sql e crie algumas tabelas e peça para corrigir a sintaxe e depois peça apenas: criar APis para alguma tabela criada
 
 5) abra um projeto e crie as intruções do copilot pelo menu de configuração do copilot chat
+
+6) customize o comando de refatoração
 
 ## Setup
 
@@ -38,6 +38,3 @@ Veja o comportamento de diferentes modelos
 - `db.js`: MySQL connection setup
 - `routes/`: API route handlers
 
----
-
-Replace this README with more details as your project grows.
